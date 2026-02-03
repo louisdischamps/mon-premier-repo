@@ -1,2 +1,2 @@
 # mon-premier-repo
-Fait ce que tu veux
+Mon premier repository d'illustration de Gifthub
